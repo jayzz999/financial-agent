@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# ML Models & Data
+*.pkl
+*.h5
+*.model
+data/
+models/
+
+# Environment & Secrets
+.env
+*.env
+.env.local
+secrets/
+
+# Weaviate
+.weaviate/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
