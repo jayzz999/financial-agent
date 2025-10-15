@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Autonomous Financial Agent
 
 A multi-agent system for real-time market analysis using LangChain, FinBERT, and Weaviate with an interactive Streamlit dashboard.
@@ -60,5 +59,3 @@ Deployed on Streamlit Cloud: [Your App URL]
 - Weaviate
 - Streamlit
 - OpenAI API
-
-EOF
